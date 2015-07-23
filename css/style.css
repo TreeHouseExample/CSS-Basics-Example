@@ -28,6 +28,10 @@ h3 {
 p {
 }
 
+li {
+	list-style: none;
+}
+
 /* Pseudo-classes ------------------ */
 
 a:link {
